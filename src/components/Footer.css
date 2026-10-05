@@ -1,0 +1,8 @@
+.footer {
+  padding: 0 clamp(20px, 5vw, 72px) 36px;
+  color: #666;
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+.footer p { margin: 0; max-width: 900px; }
